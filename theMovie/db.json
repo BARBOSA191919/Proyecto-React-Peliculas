@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": "2d465193-631f-4b63-bbf8-16f1f903d6f9",
+      "username": "admin",
+      "email": "admin@admin.com",
+      "password": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+      "favorite": [
+        753342,
+        901362,
+        695721,
+        1022789,
+        519182
+      ]
+    },
+    {
+      "id": "b960c4ab-7456-4f7c-a0a1-89660cd1a66b",
+      "username": "Santiago Barbosa",
+      "email": "sbarbosarivas@gmail.com",
+      "password": "c8cf23f9367fb5b32039c2b5e8cd7fb53652536673cf856df11542b661487bf8",
+      "favorite": [
+        238,
+        240,
+        1086747,
+        1022789
+      ]
+    }
+  ]
+}
